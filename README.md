@@ -34,7 +34,7 @@ Data scientist and lifelong math nerd — very curious about where AI is taking 
   <tr>
     <td align="center" valign="middle">
       <img src="assets/spacer.png" width="395" height="1" alt="" /><br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GlobalMin&theme=transparent&hide_border=true&layout=compact&card_width=380" alt="Top Languages" />
+      <img src="assets/top-langs.svg" alt="Top Languages" />
     </td>
     <td align="center" valign="middle">
       <img src="assets/spacer.png" width="395" height="1" alt="" /><br/>
