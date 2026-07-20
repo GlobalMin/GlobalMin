@@ -1,0 +1,28 @@
+<svg width="100%" viewBox="0 0 680 180" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>GitHub profile banner for GlobalMin</title>
+  <desc>A minimal white banner card with a name headline, tagline, and a small dark terminal graphic.</desc>
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0.45" stop-color="#ddf4ff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#ddf4ff" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="679" height="179" rx="12" fill="#ffffff" stroke="#d0d7de" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="679" height="179" rx="12" fill="url(#wash)" stroke="none"/>
+  <rect x="0" y="0" width="6" height="180" rx="3" fill="#0969da"/>
+
+  <text x="40" y="52" font-family="'JetBrains Mono',monospace" font-size="12" letter-spacing="3" fill="#59636e">DATA SCIENTIST · CLAUDE WHISPERER</text>
+
+  <text x="40" y="98" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="30" font-weight="800" fill="#1f2328"><tspan fill="#0969da">GlobalMin</tspan>'s code</text>
+  <rect x="40" y="112" width="52" height="3" rx="1.5" fill="#0969da"/>
+
+  <text x="40" y="140" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="14" fill="#59636e">On the rollercoaster of AI for better or worse</text>
+
+  <rect x="440" y="40" width="200" height="100" rx="8" fill="#0d1117" stroke="#d0d7de" stroke-width="1"/>
+  <circle cx="454" cy="55" r="4" fill="#ff5f56"/>
+  <circle cx="468" cy="55" r="4" fill="#ffbd2e"/>
+  <circle cx="482" cy="55" r="4" fill="#27c93f"/>
+  <text x="454" y="90" font-family="'JetBrains Mono',monospace" font-size="11" fill="#3fb950">❯ python train.py</text>
+  <text x="454" y="112" font-family="'JetBrains Mono',monospace" font-size="11" fill="#8b949e">→ <tspan fill="#58a6ff">claude</tspan> · <tspan fill="#e6edf3">cursor</tspan> · <tspan fill="#a371f7">codex</tspan></text>
+</svg>
