@@ -2,12 +2,12 @@
 
 Data scientist and lifelong math nerd, very curious about where AI is taking coding as a profession.
 
-## 💻 Tech Stack
+## 💻 tech stack
 
 <table align="center" width="100%">
   <tr>
-    <th align="center" width="50%">How it started</th>
-    <th align="center" width="50%">How it's going</th>
+    <th align="center" width="50%">What I used to do</th>
+    <th align="center" width="50%">Now</th>
   </tr>
   <tr>
     <td align="center" valign="middle">
@@ -24,9 +24,12 @@ Data scientist and lifelong math nerd, very curious about where AI is taking cod
   </tr>
 </table>
 
-<p align="center"><em>I still read the diffs. Usually.</em></p>
+<p align="center">
+  Jokes aside (but sadly not a complete joke) I am very interested<br/>
+  in the long term consequences of agentic coding on technical fields.
+</p>
 
-## 📊 GitHub Stats
+## 📊 stats
 
 <table align="center" width="100%">
   <tr>
