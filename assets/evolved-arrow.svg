@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="92" viewBox="0 0 72 92" role="img" aria-label="evolved">
+  <g>
+    
+    <circle cx="36" cy="30" r="23" fill="#0969da"></circle>
+    <path d="M26 30h18M38 22l8 8-8 8" stroke="#ffffff" stroke-width="3.5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+  </g>
+  <text x="36" y="74" text-anchor="middle" font-family="ui-monospace, &#39;SFMono-Regular&#39;, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="10" font-weight="700" letter-spacing="1" fill="#0969da">EVOLVED</text>
+</svg>

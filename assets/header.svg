@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="88" viewBox="0 0 800 88" role="img" aria-label="Hey, I&#39;m GlobalMin — Data Scientist">
+  <text x="0" y="13" font-family="ui-monospace, &#39;SFMono-Regular&#39;, &#39;SF Mono&#39;, Menlo, Consolas, monospace" font-size="13" font-weight="500" letter-spacing="0.78" fill="#656d76">DATA SCIENTIST</text>
+  <text x="0" y="55" font-family="-apple-system, BlinkMacSystemFont, &#39;Segoe UI&#39;, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-1"><tspan fill="#1f2328">Hey, I&#39;m </tspan><tspan fill="#0969da">GlobalMin</tspan></text>
+  <rect x="0" y="72" width="56" height="3" rx="1.5" fill="#0969da"></rect>
+</svg>
